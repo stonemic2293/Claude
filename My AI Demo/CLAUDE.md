@@ -56,7 +56,6 @@ The `context/` folder holds the detailed background that doesn't belong in this 
 |---|---|
 | `context/work-history.md` | Roles, dates, accomplishments, metrics for résumés and cover letters |
 | `context/job-search.md` | Target roles, companies, ATS notes, application tracker |
-| `context/pmp-study.md` | Exam plan, weak areas, study-guide notes |
 | `context/tools-and-setup.md` | My Mac setup, scripts, automations, network and privacy tools |
 | `context/writing-style.md` | Voice, phrases I like or avoid, examples of my writing |
 | `context/projects.md` | Active projects, status, next actions |
