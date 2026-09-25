@@ -31,7 +31,7 @@ Read this file first. It covers who I am and how I work. For deeper detail, see 
 - Keep it concise. Use detail only when I ask for it or when it changes the decision.
 - If you think I'm wrong or a plan has a hole, say so plainly.
 - When something is ambiguous, make a reasonable assumption, state it, and keep going. Ask a question only if you truly can't proceed.
-- [add formatting, tone, or length preferences here]
+- ⚠️ **TODO — FILL THIS IN: add your formatting, tone, or length preferences here** ⚠️
 
 ## Memory - you get smarter every week
 
