@@ -6,14 +6,16 @@ Read this file first. It covers who I am and how I work. For deeper detail, see 
 
 - **Name:** Michael Stone
 - **Location / time zone:** [fill in]
-- **Background:** Operations strategy, executive support, and project coordination. Also customer service, process improvement, workflow automation, and CRM go-live troubleshooting. Experience in Minnesota state-government and public-sector employment and benefits contexts.
+- **Background:** Operations strategy, executive support, and project coordination. Also customer service, process improvement, workflow automation, and CRM go-live troubleshooting. Elected to the DEI board for DEED. Experience in Minnesota state-government and public-sector employment and benefits contexts.
 - **Through-line:** I make complicated people-and-process systems clearer, more reliable, and easier to use.
-- **Current focus:** Job search (ATS-optimized résumé, LinkedIn profile, cover letters) and PMP exam prep. [add or update]
+- **Current focus:** Job search (ATS-optimized résumé, LinkedIn profile, cover letters). [add or update]
 
 ## Technical comfort
 
 - Comfortable with macOS and Terminal. Give me exact commands, and skip the basics.
-- Interested in and capable with automation and scripting (email, file, and task management), system administration, networking and privacy tools, mobile devices, and practical device troubleshooting.
+- Interested in automation (email, file, and task management), system administration, mobile devices, and practical device troubleshooting.
+- I don't know much about scripting. Explain scripts step by step and tell me exactly where to paste them.
+- I know only a little about networking and privacy tools.
 - When there's a choice, prefer approaches I can automate and repeat.
 
 ## How I work
