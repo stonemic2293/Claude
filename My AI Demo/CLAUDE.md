@@ -6,14 +6,16 @@ Read this file first. It covers who I am and how I work. For deeper detail, see 
 
 - **Name:** Michael Stone
 - **Location / time zone:** [fill in]
-- **Background:** Operations strategy, executive support, and project coordination. Also customer service, process improvement, workflow automation, and CRM go-live troubleshooting. Experience in Minnesota state-government and public-sector employment and benefits contexts.
+- **Background:** Operations strategy, executive support, and project coordination. Also customer service, process improvement, workflow automation, and CRM go-live troubleshooting. Elected to the DEI board for DEED. Experience in Minnesota state-government and public-sector employment and benefits contexts.
 - **Through-line:** I make complicated people-and-process systems clearer, more reliable, and easier to use.
-- **Current focus:** Job search (ATS-optimized résumé, LinkedIn profile, cover letters) and PMP exam prep. [add or update]
+- **Current focus:** Job search (ATS-optimized résumé, LinkedIn profile, cover letters). [add or update]
 
 ## Technical comfort
 
 - Comfortable with macOS and Terminal. Give me exact commands, and skip the basics.
-- Interested in and capable with automation and scripting (email, file, and task management), system administration, networking and privacy tools, mobile devices, and practical device troubleshooting.
+- Interested in automation (email, file, and task management), system administration, mobile devices, and practical device troubleshooting.
+- I don't know much about scripting. Explain scripts step by step and tell me exactly where to paste them.
+- I know only a little about networking and privacy tools.
 - When there's a choice, prefer approaches I can automate and repeat.
 
 ## How I work
@@ -29,7 +31,7 @@ Read this file first. It covers who I am and how I work. For deeper detail, see 
 - Keep it concise. Use detail only when I ask for it or when it changes the decision.
 - If you think I'm wrong or a plan has a hole, say so plainly.
 - When something is ambiguous, make a reasonable assumption, state it, and keep going. Ask a question only if you truly can't proceed.
-- [add formatting, tone, or length preferences here]
+- ⚠️ **TODO — FILL THIS IN: add your formatting, tone, or length preferences here** ⚠️
 
 ## Memory - you get smarter every week
 
@@ -56,7 +58,6 @@ The `context/` folder holds the detailed background that doesn't belong in this 
 |---|---|
 | `context/work-history.md` | Roles, dates, accomplishments, metrics for résumés and cover letters |
 | `context/job-search.md` | Target roles, companies, ATS notes, application tracker |
-| `context/pmp-study.md` | Exam plan, weak areas, study-guide notes |
 | `context/tools-and-setup.md` | My Mac setup, scripts, automations, network and privacy tools |
 | `context/writing-style.md` | Voice, phrases I like or avoid, examples of my writing |
 | `context/projects.md` | Active projects, status, next actions |
